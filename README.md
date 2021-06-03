@@ -1,7 +1,6 @@
 Squadra Technologies
 
-Security Removable Media Manager (secRMM)
-Squadra Technologies security Removable Media Manager (secRMM) software is Windows security software that runs on your company’s workstations and servers.
+'Security Removable Media Manager' (secRMM) software is Windows security software that runs on your company’s workstations and servers.
 secRMM manages and monitors removable media.  
 In this context, Removable media is defined as external hard disks, USB (flash) drives, smart phones, tablets, SD-Cards, CD-ROM and DVD.
 Generally, any storage device that supports Microsoft plug-and-play will be managed and monitored by secRMM.
